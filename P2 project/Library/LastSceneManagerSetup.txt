@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/LVL.unity
+- path: Assets/Scenes/Forside.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
