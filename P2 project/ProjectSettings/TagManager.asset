@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Tag_Plastic
+  - Tag_Organic
+  - Tag_Metal
+  - Tag_Glass
+  - Tag_Other
+  - Tag_Paper
   layers:
   - Default
   - TransparentFX
@@ -38,6 +44,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 896823437
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Garbage Can
+    uniqueID: 843550393
+    locked: 0
+  - name: Trash
+    uniqueID: 4285955165
+    locked: 0
+  - name: UI
+    uniqueID: 2377999893
     locked: 0
